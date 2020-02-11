@@ -17,5 +17,7 @@ public class Main2Activity extends AppCompatActivity {
 
         getActionBar();
 
+        getAssets();
+
     }
 }
