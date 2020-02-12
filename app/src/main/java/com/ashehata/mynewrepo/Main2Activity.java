@@ -19,5 +19,8 @@ public class Main2Activity extends AppCompatActivity {
 
         getAssets();
         // commit no. 8
+
+        // commit no. 9
+
     }
 }
