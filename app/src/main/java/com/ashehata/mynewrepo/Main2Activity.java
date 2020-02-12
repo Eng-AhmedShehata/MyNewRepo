@@ -24,8 +24,9 @@ public class Main2Activity extends AppCompatActivity {
         
         //added from github repo
 
-        //added from feature branch
+        //added from develop
 
+        //added from feature branch
 
 
 
