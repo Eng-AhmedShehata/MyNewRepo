@@ -18,6 +18,6 @@ public class Main2Activity extends AppCompatActivity {
         getActionBar();
 
         getAssets();
-
+        // commit no. 8
     }
 }
